@@ -1,12 +1,8 @@
 # Trabalho Final - Introdução à Ciência da Computação  
-**Professor:** Matheus Machado  
+**Professor:** Matheus Machado dos Santos
 **Alunos:**  
 - Fernando Dantas – Matrícula: 17097341  
 - Vitor Trasancos – Matrícula: 16839040  
-
-## Descrição do Projeto
-
-Este trabalho tem como objetivo analisar fatores que podem influenciar o desempenho acadêmico de estudantes do ensino médio, utilizando técnicas básicas de ciência de dados e programação em Python.
 
 ### Base de Dados
 O conjunto de dados utilizado foi o **Student Performance Data**, disponível no Kaggle:  
@@ -17,10 +13,10 @@ O arquivo original é o student_data.csv.
 ### Estrutura do Repositório
 
 - **`limpeza_dados.ipynb`**  
-  Notebook responsável pela importação, limpeza, tratamento de valores ausentes, remoção de duplicatas e preparação dos dados para análise.
+  Notebook responsável pela importação, limpeza e tratamento.
 
-- **`codigofinal.ipynb`**  
-  Notebook principal contendo toda a análise exploratória, visualizações e conclusões do trabalho.
+- **`codigofinal.py`**  
+  Codigo principal.
 
 - **`student_data.csv`**  
   Base de dados bruta utilizada no projeto.
@@ -37,4 +33,8 @@ O arquivo original é o student_data.csv.
 | 6  | EscolaridadeDaMae    | Nível de escolaridade da mãe 
 | 7  | EscolaridadeDoPai    | Nível de escolaridade do pai 
 | 8  | MediaDeNotas         | Média final das notas do estudante             
+
+
+### Uso de IA
+Nosso projeto utilizou a IA em alguns momentos para ajudar na construção dos gráficos, uma vez que alguns deles requeriam um pouco mais de sofisticação.
 
